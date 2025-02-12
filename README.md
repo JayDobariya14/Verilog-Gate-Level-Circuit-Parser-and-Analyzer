@@ -46,7 +46,7 @@ After execution, output files containing parsed gate and net information will be
 
 ## Logic and Processing
 
-![Flowchart of Parsing Process](images/Diagram.png)
+![Flowchart of Parsing Process](Diagram.png)
 
 ### 1. **Parsing the Verilog File**
 - Reads a Verilog file line by line.
